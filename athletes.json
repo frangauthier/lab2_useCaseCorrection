@@ -1,0 +1,57 @@
+{
+    "Antony": {
+        "firstName": "Antony",
+        "lastName": "Baggins",
+        "sport": "Football",
+        "age": 31,
+        "isCanadianCitizen": false,
+        "contact": {
+            "email": "antobg33@gmail.com",
+            "allowsCommunication": false
+        }
+    },
+    "Barry": {
+        "firstName": "Barry",
+        "lastName": "Winston",
+        "sport": "Basketball",
+        "age": 32,
+        "isCanadianCitizen": true,
+        "contact": {
+            "email": "barryw2good@gmail.com",
+            "allowsCommunication": false
+        }
+    },
+    "Catherine": {
+        "firstName": "Catherine",
+        "lastName": "Sinclair",
+        "sport": "Gymnastics",
+        "age": 18,
+        "isCanadianCitizen": true,
+        "contact": {
+            "email": "cathsinclair99@gmail.com",
+            "allowsCommunication": true
+        }
+    },
+    "Drew": {
+        "firstName": "Drew",
+        "lastName": "Portalo",
+        "sport": "Curling",
+        "age": 38,
+        "isCanadianCitizen": false,
+        "contact": {
+            "email": "portalod@outlook.ca",
+            "allowsCommunication": true
+        }
+    },
+    "Emily": {
+        "firstName": "Emily",
+        "lastName": "Sinclair",
+        "sport": "Horseback riding",
+        "age": 24,
+        "isCanadianCitizen": true,
+        "contact": {
+            "email": "ilovehorses@outlook.ca",
+            "allowsCommunication": false
+        }
+    }
+}
