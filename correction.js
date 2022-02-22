@@ -409,7 +409,7 @@ async function useCase3() {
         if (response5.status && response5.status === 404) {
             score += 15 // 75/100
         } else {
-            feedback.push('PUT athlete by id status is not 404 after delete')
+            feedback.push('PATCH athlete by id status is not 404 after delete')
         }
     }
 
